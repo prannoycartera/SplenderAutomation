@@ -10,6 +10,12 @@
           <include name="main"/>
         </methods>
       </class> <!-- com.prannoy.testng2.maven.test.SplendorTest -->
+      <class name="com.prannoy.testng2.maven.test.AppTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.prannoy.testng2.maven.test.AppTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
