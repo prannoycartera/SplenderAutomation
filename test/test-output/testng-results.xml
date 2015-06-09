@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39654" started-at="2015-06-05T17:43:36Z" finished-at="2015-06-05T17:44:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39654" started-at="2015-06-05T17:43:36Z" finished-at="2015-06-05T17:44:15Z">
+      <class name="com.prannoy.testng2.maven.test.SplendorTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.prannoy.testng2.maven.test.SplendorTest@2f7a2457]" name="beforeMethod" is-config="true" duration-ms="17236" started-at="2015-06-05T13:43:36Z" finished-at="2015-06-05T13:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:com.prannoy.testng2.maven.test.SplendorTest@2f7a2457]" name="main" duration-ms="21818" started-at="2015-06-05T13:43:53Z" finished-at="2015-06-05T13:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.prannoy.testng2.maven.test.SplendorTest@2f7a2457]" name="afterMethod" is-config="true" duration-ms="587" started-at="2015-06-05T13:44:15Z" finished-at="2015-06-05T13:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.prannoy.testng2.maven.test.SplendorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
